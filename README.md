@@ -4,14 +4,6 @@ A sleek and interactive Vite + React web app that lets users seamlessly change t
 
 ---
 
-## 🚀 Live Demo
-
-Check it out here:  
-`https://<your-username>.github.io/Background-Changer/`  
-*(Replace `<your-username>` with your actual GitHub username.)*
-
----
-
 ## ⚙️ Features
 
 - Instantly switch background colors via clickable buttons  
